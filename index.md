@@ -12,6 +12,6 @@ git-blog/
    |
    ├── 1-publish.md
    ├── 2-publish.md
-   ├── 3-publish.md
+   ├── > **[Barcha postlarni ko'rish](https://github.com/idywahhid/git-blog/blob/main/index.md)**
    └── ...
 ```
