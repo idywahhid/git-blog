@@ -20,9 +20,9 @@ Men texnologiyalar olamida yashasam-da, faqat kod va algoritmlar bilan cheklanib
 ```
 git-blog/
 ├── README.md                 # Barcha ma'lumotlar
-├── STRUCTURE.md              # Blog tuzilishi haqida
 |
 └── index.md/                 # Barcha postlar ro'yxati
+   |
    ├── 1-publish.md
    ├── 2-publish.md
    ├── 3-publish.md
