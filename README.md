@@ -20,45 +20,16 @@ Men texnologiyalar olamida yashasam-da, faqat kod va algoritmlar bilan cheklanib
 ```
 git-blog/
 ├── README.md                 # Barcha ma'lumotlar
-├── index.md                  # Home / Index
 ├── STRUCTURE.md              # Blog tuzilishi haqida
 |
-├── posts/                    # Barcha postlar ro'yxati
-│   ├── 2026-yil/
-│   │   ├── 1-publish.md
-│   │   ├── 2-publish.md
-│   │   └── ...
-│   ├── 2025-yil/
-│   │   └── ...
-│   └── archive/
-│
-├── assets/                   # Rasmlar va media
-│   ├── images/
-│   │   ├── banner.png
-│   │   └── philosophy/
-│   └── icons/
-│
-├── templates/                # Post templateları
-│   ├── post-template.md
-│   └── weekly-reflection.md
-│
-├── scripts/                  # Avtomatizatsiya
-│   └── generate-index.py
-│
-└── .github/
-    └── workflows/
-        └── update-index.yml  # GitHub Actions
+└── index.md/                 # Barcha postlar ro'yxati
+  ├── 1-publish.md
+  ├── 2-publish.md
+  ├── 3-publish.md
+  ├── 4-publish.md
+  ├── 5-publish.md
+  └── ...
 ```
----
-
-## GitHub Actions Avtomatizatsiya
-
-Hozir har bir push'da:
-- ✅ Post indeksi avtomatik yangilanadi
-- ✅ Kategoriya ro'yxati qayta tuziladi
-- ✅ Statistika yangilandi
-- ✅ RSS feed tayyorlanadi (kelasi)
-
 ---
 
 ## Qanday Hissa Qo'shish?
