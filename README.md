@@ -26,8 +26,6 @@ git-blog/
    ├── 1-publish.md
    ├── 2-publish.md
    ├── 3-publish.md
-   ├── 4-publish.md
-   ├── 5-publish.md
    └── ...
 ```
 ---
