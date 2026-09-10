@@ -7,7 +7,6 @@
 [![Posts](https://img.shields.io/badge/Posts-Growing-orange?style=flat-square)](./posts)
 [![Lan](https://img.shields.io/badge/Lang-UZ-blue?style=flat-square)](https://github.com/idywahhid/git-blog)
 
----
 
 ## Nima uchun bu blog?
 
