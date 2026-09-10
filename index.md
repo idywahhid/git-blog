@@ -3,4 +3,5 @@
 
 # Home
 
-**[O'zini sinab ko'rish nega muhim?](https://github.com/idywahhid/git-blog/blob/main/index.md)** | 8-sentabr, 2026-yil
+**[O'zini sinab ko'rish nega muhim?](https://github.com/idywahhid/git-blog/blob/main/1-publish.md)** | 8-sentabr, 2026-yil
+**[Doimiylik nega muhim?](https://github.com/idywahhid/git-blog/blob/main/2-publish.md)** | 9-sentabr, 2026-yil
