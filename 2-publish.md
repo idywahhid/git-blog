@@ -20,7 +20,7 @@ Doimiylik va intizom — shaxsiy rivojlanish hamda har qanday sohada uzoq muddat
 <summary><i>Info</i></summary>
 
 * **Muallif:** idywahhid
-* **Sana:** 8-sentabr, 2026-yil
+* **Sana:** 9-sentabr, 2026-yil
 * **O'qish vaqti:** 3-5 daqiqa
 </details>
 
