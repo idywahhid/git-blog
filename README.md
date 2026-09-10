@@ -35,14 +35,9 @@ git-blog/
 Siz ham bu blog'ga hissa qo'sha olasiz!
 
 1. **Post Taklif Qilish**
-   - Issue ochish: "New post: [tema]"
-
 2. **Xatoni Topish**
-   - Typo yoki notog'ri bilgilarni bildirish
-
 3. **Yaxshilanish Taklifi**
-   - Struktura yoki formatni takomillash
-  
+
 ## info
 - **Email:** [idywahhid@gmail.com](mailto:idywahhid@gmail.com)
 - **Telegram:** [@m_muhammadkomilov](https://t.me/m_muhammadkomilov)
