@@ -2,3 +2,16 @@
 
 # home
 ishlab chiqarish jarayonida
+
+
+```
+git-blog/
+├── README.md                 # Barcha ma'lumotlar
+|
+└── index.md/                 # Barcha postlar ro'yxati
+   |
+   ├── 1-publish.md
+   ├── 2-publish.md
+   ├── 3-publish.md
+   └── ...
+```
