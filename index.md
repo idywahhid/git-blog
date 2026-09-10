@@ -5,4 +5,4 @@ ishlab chiqarish jarayonida
 
 
 
-> **[a](https://github.com/idywahhid/git-blog/blob/main/index.md)**
+# **[O'zini sinab ko'rish nega muhim?](https://github.com/idywahhid/git-blog/blob/main/index.md)**
