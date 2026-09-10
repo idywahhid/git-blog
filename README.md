@@ -9,13 +9,13 @@
 
 ---
 
-## 📚 Nima uchun bu blog?
+## Nima uchun bu blog?
 
 Men texnologiyalar olamida yashasam-da, faqat kod va algoritmlar bilan cheklanib qolmayman. Barchamiz kabi meni ham hayot, shaxsiy rivojlanish va insoniy qadriyatlar ko‘p o‘ylantiradi. Aynan shu ikki dunyo — texnika va hayotiy mulohazalarni tutashtirish, fikrlarimni tartibga solish va siz bilan ulashish uchun Git-Blog ga asos soldim. Bu yerda texnik muhitdagi insonning texnik bo‘lmagan samimiy fikrlarini topasiz.
 
 ---
 
-## 📂 Loyiha Tuzilishi
+## Loyiha Tuzilishi
 
 ```
 git-blog/
@@ -46,7 +46,7 @@ Siz ham bu blog'ga hissa qo'sha olasiz!
 > **[Barcha postlarni ko'rish](https://github.com/idywahhid/git-blog/blob/main/index.md)**
 
 ---
-## 📄 Lisenziya
+## Lisenziya
 
 Bu loyiha **Creative Commons Attribution 4.0** licenziyasi ostida.
 Postlardan iqtibos qilish yoki share qilishda mening nomimni aytib qo'ying.
