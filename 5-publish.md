@@ -18,7 +18,7 @@ Insoniy munosabatlarda tavoze (kamtarinlik) — yuksak fazilat. Ammo bu fazilat 
 <summary><i>Info</i></summary>
 
 * **Muallif:** idywahhid
-* **Sana:** 11-sentabr, 2026-yil
+* **Sana:** 12-sentabr, 2026-yil
 * **O'qish vaqti:** 3-5 daqiqa
 </details>
 
