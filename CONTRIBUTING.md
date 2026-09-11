@@ -19,7 +19,7 @@ Loyihaga oid savollaringiz, g'oyalaringiz yoki fikrlaringiz bo'lsa, quyidagi usu
 
 Agar siz blogga yangi mavzu qo'shmoqchi yoki mavjud ma'lumotlarni yaxshilamoqchi bo'lsangiz, quyidagi bosqichlarni bajaring:
 
-### 1. Repozitoriyani Fork qiling
+### 1. Repozitoriyani fork qiling
 Sahifaning yuqori o'ng burchagidagi **Fork** tugmasini bosing.
 
 ### 2. Kodni o'zingizga ko'chirib oling (Clone)
