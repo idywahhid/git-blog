@@ -7,4 +7,4 @@
 2. **[Doimiylik nega muhim?](https://github.com/idywahhid/git-blog/blob/main/2-publish.md)**
 3. **[Ilim olish nega muhim?](https://github.com/idywahhid/git-blog/blob/main/3-publish.md)**
 4. **[Doimiy o'sish nega muhim?](https://github.com/idywahhid/git-blog/blob/main/4-publish.md)** 
-5. **[Haddidan oshganga tavoze ko'rsatilmaydi!](https://github.com/idywahhid/git-blog/blob/main/5-publish.md)** 
+5. **[Haddidan oshganga tavoze ko'rsatilmaydi.](https://github.com/idywahhid/git-blog/blob/main/5-publish.md)** 
