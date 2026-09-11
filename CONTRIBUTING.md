@@ -4,7 +4,7 @@ Ushbu loyihaga qiziqish bildirganingiz uchun tashakkur! `git-blog` — bu GitHub
 
 ---
 
-## 💬 Savol berish va Feedback (Fikr-mulohaza) bildirish
+## Savol berish va Feedback (Fikr-mulohaza) bildirish
 
 Loyihaga oid savollaringiz, g'oyalaringiz yoki fikrlaringiz bo'lsa, quyidagi usullardan foydalanishingiz mumkin:
 
@@ -15,7 +15,7 @@ Loyihaga oid savollaringiz, g'oyalaringiz yoki fikrlaringiz bo'lsa, quyidagi usu
 
 ---
 
-## 🛠 Hissa qo'shish (Contributing) tartibi
+## Hissa qo'shish (Contributing) tartibi
 
 Agar siz blogga yangi mavzu qo'shmoqchi yoki mavjud ma'lumotlarni yaxshilamoqchi bo'lsangiz, quyidagi bosqichlarni bajaring:
 
