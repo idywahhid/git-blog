@@ -1,4 +1,4 @@
-# Git-Blog Loyihasiga Hissa Qo'shish va Fikr Almashish Qo'llanmasi
+# Git-Blog loyihasiga hissa qo'shish va fikr almashish qo'llanmasi
 
 Ushbu loyihaga qiziqish bildirganingiz uchun tashakkur! `git-blog` — bu GitHub'ning o'zida yuritiladigan, minimalist va sodda o'quv-blog loyihasi. Loyihani rivojlantirish va ma'lumotlarni boyitishda sizning hissangiz va fikrlaringiz biz uchun juda muhim.
 
