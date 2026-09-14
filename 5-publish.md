@@ -22,4 +22,4 @@ Insoniy munosabatlarda tavoze (kamtarinlik) — yuksak fazilat. Ammo bu fazilat 
 * **O'qish vaqti:** 3-5 daqiqa
 </details>
 
-[<- Previous page](./-publish.md) | [Home page](./index.md) | [Next page ->](./-publish.md)
+[<- Previous page](./4-publish.md) | [Home page](./index.md) | [Next page ->](./6-publish.md)
