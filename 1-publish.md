@@ -24,4 +24,4 @@ Qiyinchiliklar va yangi vazifalarni muvaffaqiyatli bajarish insonning o'ziga bo'
 * **O'qish vaqti:** 3-5 daqiqa
 </details>
 
-[<- Previous page](./index.md) |
+[Home page](./index.md) | [Next page ->](./2-publish.md)
