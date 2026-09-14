@@ -24,4 +24,4 @@ Doimiy o'sish — bu bir joyda to'xtab qolmaslik, har kuni oz bo'lsa-da ilgarila
 * **O'qish vaqti:** 3-5 daqiqa
 </details>
 
-[<- Previous page](./index.md)
+[<- Previous page](./3-publish.md) | [Next page ->](./5-publish.md)
