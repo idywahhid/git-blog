@@ -26,4 +26,4 @@ Networking (aloqalar tarmog'i) — bu o'zaro ishonch, hurmat va manfaatlarga aso
 * **O'qish vaqti:** 7-10 daqiqa
 </details>
 
-[<- Previous page](./index.md)
+[<- Previous page](./6-publish.md) | [Home page](./index.md) | [Next page ->](./8-publish.md)
