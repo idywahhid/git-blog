@@ -27,4 +27,4 @@ Qancha daromad topish muhim, ammo topilgan pulni qanday boshqarish undan-da muhi
 * **O'qish vaqti:** 5-8 daqiqa
 </details>
 
-[<- Previous page](./index.md)
+[<- Previous page](./5-publish.md) | [Next page ->](./7-publish.md)
