@@ -24,4 +24,4 @@ Erkak kishining kuchi va yetukligi faqat uning jismoniy imkoniyatlari bilan emas
 * **O'qish vaqti:** 5-8 daqiqa
 </details>
 
-[<- Previous page](./7-publish.md) | [Home page](./index.md)
+[<- Previous page](./7-publish.md) | [Home page](./index.md) | [Next page ->](./9-publish.md)"
