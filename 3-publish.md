@@ -24,4 +24,4 @@ Ilim olish — inson komilligi, ma'naviy yuksalishi va har qanday jamiyatning ke
 * **O'qish vaqti:** 3-5 daqiqa
 </details>
 
-[<- Previous page](./index.md)
+[<- Previous page](./2-publish.md) | [Next page ->](./4-publish.md)
