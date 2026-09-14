@@ -20,7 +20,7 @@ Erkak kishining kuchi va yetukligi faqat uning jismoniy imkoniyatlari bilan emas
 <summary><i>Info</i></summary>
 
 * **Muallif:** idywahhid
-* **Sana:** 14-sentabr, 2026-yil
+* **Sana:** 15-sentabr, 2026-yil
 * **O'qish vaqti:** 5-8 daqiqa
 </details>
 
