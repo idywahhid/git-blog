@@ -24,4 +24,4 @@ Doimiylik va intizom — shaxsiy rivojlanish hamda har qanday sohada uzoq muddat
 * **O'qish vaqti:** 3-5 daqiqa
 </details>
 
-[<- Previous page](./index.md)
+[<- Previous page](./1-publish.md) | [Next page ->](./3-publish.md)
