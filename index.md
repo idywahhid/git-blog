@@ -10,4 +10,5 @@
 5. **[Haddidan oshganga tavoze ko'rsatilmaydi.](https://github.com/idywahhid/git-blog/blob/main/5-publish.md)** 
 6. **[Daromadni to'g'ri boshqarish haqida.](https://github.com/idywahhid/git-blog/blob/main/6-publish.md)**
 7. **[Networking nima va nega kerak?](https://github.com/idywahhid/git-blog/blob/main/7-publish.md)** 
-7. **[Hissiyotlarni boshqarish nega muhim?](https://github.com/idywahhid/git-blog/blob/main/8-publish.md)** 
+8. **[Hissiyotlarni boshqarish nega muhim?](https://github.com/idywahhid/git-blog/blob/main/8-publish.md)** 
+9. **[Xatolardan qo'rqmaslik](https://github.com/idywahhid/git-blog/blob/main/9-publish.md)** 
