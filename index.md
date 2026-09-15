@@ -3,6 +3,10 @@
 
 # Home all articles
 
+> **git-blog community & feedback**
+> [Discussions & Savol-javob](https://github.com/idywahhid/git-blog/discussions/1)
+> [CONTRIBUTING.md](https://github.com/idywahhid/git-blog/blob/main/CONTRIBUTING.md)
+
 1. **[O'zini sinab ko'rish nega muhim?](https://github.com/idywahhid/git-blog/blob/main/1-publish.md)**
 2. **[Doimiylik nega muhim?](https://github.com/idywahhid/git-blog/blob/main/2-publish.md)**
 3. **[Ilim olish nega muhim?](https://github.com/idywahhid/git-blog/blob/main/3-publish.md)**
