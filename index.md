@@ -20,3 +20,4 @@
 | **09** | Xatolardan qo'rqmaslik | [O'qish](./9-publish.md) |
 | **10** | Sinab ko'rish kerak | [O'qish](./10-publish.md) |
 | **11** | Kimningdir g'oyasi bilan pul ishlash — norma | [O'qish](./11-publish.md) |
+| **12** | Butun dunyoni yelkaga yuklab olma | [O'qish](./12-publish.md) |
