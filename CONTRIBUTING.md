@@ -1,28 +1,51 @@
-# Git-Blog loyihasiga hissa qo'shish va fikr almashish qo'llanmasi
+# Contributing to Git-Blog
 
-Ushbu loyihaga qiziqish bildirganingiz uchun tashakkur! `git-blog` — bu GitHub'ning o'zida yuritiladigan, minimalist va sodda o'quv-blog loyihasi. Loyihani rivojlantirish va ma'lumotlarni boyitishda sizning hissangiz va fikrlaringiz biz uchun juda muhim.
-
----
-
-## Savol berish va Feedback (Fikr-mulohaza) bildirish
-
-Loyihaga oid savollaringiz, g'oyalaringiz yoki fikrlaringiz bo'lsa, quyidagi usullardan foydalanishingiz mumkin:
-
-1. **GitHub Discussions (Tavsiya etiladi):** 
-   * Umumiy savollar, muhokamalar va yangi g'oyalar uchun [Discussions](../../discussions) bo'limida yangi mavzu (Topic) oching.
-2. **GitHub Issues (Xatoliklar uchun):**
-   * Agar blogdagi ma'lumotlarda xatolik, imlo xatosi yoki eskirgan ma'lumot ko'rsangiz, [Issues](../../issues) bo'limida **New Issue** tugmasini bosing va xatolik haqida xabar bering.
+Thank you for your interest in contributing to this project.
 
 ---
 
-## Hissa qo'shish (Contributing) tartibi
+## Feedback & Questions
 
-Agar siz blogga yangi mavzu qo'shmoqchi yoki mavjud ma'lumotlarni yaxshilamoqchi bo'lsangiz, quyidagi bosqichlarni bajaring:
+Have thoughts or questions about the articles? Open a new discussion [here](../../discussions).
 
-### 1. Repozitoriyani fork qiling
-Sahifaning yuqori o'ng burchagidagi **Fork** tugmasini bosing.
+Found an error? Report it as an [issue](../../issues).
 
-### 2. Kodni o'zingizga ko'chirib oling (Clone)
-```bash
-git clone [https://github.com/SIZNING_USERNAME/git-blog.git](https://github.com/SIZNING_USERNAME/git-blog.git)
-cd git-blog
+---
+
+## How to Contribute
+
+### Adding a New Article
+
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature/new-article`
+3. Add your article as `NN-publish.md` (where NN is the next number)
+4. Update `index.md` with your article
+5. Commit: `git commit -m "Add article: Your Title"`
+6. Push and create a Pull Request
+
+### Article Guidelines
+
+- Write in **Uzbek** (O'zbekcha)
+- Keep it **clear and practical**
+- Share **real examples** and **personal experience**
+- Length: **500-2000 words**
+- Title should be a **compelling question** or **idea**
+
+### Before Submitting
+
+- Check spelling and grammar
+- Ensure all links work
+- Test the formatting in preview
+
+---
+
+## Code of Conduct
+
+- Be respectful to other contributors
+- Avoid spam or promotional content
+- No plagiarism
+- Focus on constructive feedback
+
+---
+
+License: [CC BY 4.0](./LICENSE.md)
