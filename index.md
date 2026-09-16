@@ -7,7 +7,7 @@
 
 ### Maqolalar ro'yxati `(11)`
 
-|  №  | Maqola nomi | Havola |
+|  ID  | Sarlavha | Havola |
 | :--- | :--- | :--- |
 | **01** | O'zini sinab ko'rish nega muhim? | [O'qish](./1-publish.md) |
 | **02** | Doimiylik nega muhim? | [O'qish](./2-publish.md) |
