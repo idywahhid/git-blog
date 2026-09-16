@@ -23,7 +23,7 @@ Ko'pchilik biznesdagi va hayotdagi eng katta muvaffaqiyat faqat mutlaqo yangi, n
 <summary><i>Info</i></summary>
 
 * **Muallif:** idywahhid
-* **Sana:** 16-sentabr, 2026-yil
+* **Sana:** 18-sentabr, 2026-yil
 * **O'qish vaqti:** 3-5 daqiqa
 </details>
 
