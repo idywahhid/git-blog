@@ -16,3 +16,4 @@
 8. **[Hissiyotlarni boshqarish nega muhim?](https://github.com/idywahhid/git-blog/blob/main/8-publish.md)** 
 9. **[Xatolardan qo'rqmaslik](https://github.com/idywahhid/git-blog/blob/main/9-publish.md)** 
 10. **[Sinab ko'rish kerak](https://github.com/idywahhid/git-blog/blob/main/10-publish.md)** 
+11. **[Kimningdir g'oyasi bilan pul ishlash - Norma](https://github.com/idywahhid/git-blog/blob/main/11-publish.md)** 
