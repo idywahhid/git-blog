@@ -21,3 +21,4 @@
 | **10** | Sinab ko'rish kerak | [O'qish](./10-publish.md) |
 | **11** | Kimningdir g'oyasi bilan pul ishlash — norma | [O'qish](./11-publish.md) |
 | **12** | Butun dunyoni yelkaga yuklab olma | [O'qish](./12-publish.md) |
+| **13** | Shaxsiy chegara qo'yish nega kerak? | [O'qish](./13-publish.md) |
