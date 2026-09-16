@@ -5,7 +5,7 @@
 
 ---
 
-### Maqolalar ro'yxati `(12)`
+### Maqolalar ro'yxati `(13)`
 
 |  ID  | Sarlavha | Havola |
 | :--- | :--- | :--- |
