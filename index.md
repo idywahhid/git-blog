@@ -1,19 +1,22 @@
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square&logo=github)](https://github.com/idywahhid/git-blog)
-[![Lan](https://img.shields.io/badge/Lang-UZ-blue?style=flat-square)](https://github.com/idywahhid/git-blog)
+# All Articles
 
-# Home all articles
+> **Community & Feedback**  
+> Fikr-mulohaza yoki savollar bo'lsa, [Discussions & Savol-javob](https://github.com/idywahhid/git-blog/discussions/1) bo'limida ulashing.
 
-> **git-blog community & feedback**
-> [Discussions & Savol-javob](https://github.com/idywahhid/git-blog/discussions/1)
+---
 
-1. **[O'zini sinab ko'rish nega muhim?](https://github.com/idywahhid/git-blog/blob/main/1-publish.md)**
-2. **[Doimiylik nega muhim?](https://github.com/idywahhid/git-blog/blob/main/2-publish.md)**
-3. **[Ilim olish nega muhim?](https://github.com/idywahhid/git-blog/blob/main/3-publish.md)**
-4. **[Doimiy o'sish nega muhim?](https://github.com/idywahhid/git-blog/blob/main/4-publish.md)** 
-5. **[Haddidan oshganga tavoze ko'rsatilmaydi.](https://github.com/idywahhid/git-blog/blob/main/5-publish.md)** 
-6. **[Daromadni to'g'ri boshqarish haqida.](https://github.com/idywahhid/git-blog/blob/main/6-publish.md)**
-7. **[Networking nima va nega kerak?](https://github.com/idywahhid/git-blog/blob/main/7-publish.md)** 
-8. **[Hissiyotlarni boshqarish nega muhim?](https://github.com/idywahhid/git-blog/blob/main/8-publish.md)** 
-9. **[Xatolardan qo'rqmaslik](https://github.com/idywahhid/git-blog/blob/main/9-publish.md)** 
-10. **[Sinab ko'rish kerak](https://github.com/idywahhid/git-blog/blob/main/10-publish.md)** 
-11. **[Kimningdir g'oyasi bilan pul ishlash - Norma](https://github.com/idywahhid/git-blog/blob/main/11-publish.md)** 
+### Maqolalar ro'yxati `(11)`
+
+| # | Maqola nomi | Havola |
+| :--- | :--- | :--- |
+| **01** | O'zini sinab ko'rish nega muhim? | [O'qish](./1-publish.md) |
+| **02** | Doimiylik nega muhim? | [O'qish](./2-publish.md) |
+| **03** | Ilim olish nega muhim? | [O'qish](./3-publish.md) |
+| **04** | Doimiy o'sish nega muhim? | [O'qish](./4-publish.md) |
+| **05** | Haddidan oshganga tavoze ko'rsatilmaydi | [O'qish](./5-publish.md) |
+| **06** | Daromadni to'g'ri boshqarish haqida | [O'qish](./6-publish.md) |
+| **07** | Networking nima va nega kerak? | [O'qish](./7-publish.md) |
+| **08** | Hissiyotlarni boshqarish nega muhim? | [O'qish](./8-publish.md) |
+| **09** | Xatolardan qo'rqmaslik | [O'qish](./9-publish.md) |
+| **10** | Sinab ko'rish kerak | [O'qish](./10-publish.md) |
+| **11** | Kimningdir g'oyasi bilan pul ishlash — norma | [O'qish](./11-publish.md) |
